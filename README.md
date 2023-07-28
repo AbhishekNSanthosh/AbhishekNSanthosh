@@ -1,7 +1,24 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Abhishek S</h1>
-<h3 align="center">A passionate Full Stack developer from India.</h3>
-<!-- <p align="center">I am currenly working on my developing my frontend skills on <b>React.js</b> and other frontend libraries, Other than that I like <b>Typing, Problem solving, Critical Thinking and Logic Development</b>. My currently objective is to <b>become a full stack developer</b> and to <b>improve my exposure</b> in the tech communities by taking part in various community events and initiatives.<p> -->
+  <h2 align="center">👋 Hello, I'm Abhishek Santhosh</h2>
+
+<h4 align="center">
+  🚀 Full Stack Developer | MERN Stack Enthusiast | Student at Carmel College of Engineering and Technology
+</h4>
+
+👨‍💻 Aspiring software engineer with a passion for crafting innovative and efficient solutions. I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack and love building web applications that deliver seamless user experiences.
+
+🎓 Currently pursuing my education at Carmel College of Engineering and Technology, where I'm honing my technical skills and exploring new technologies.
+
+💡 Constantly curious and eager to learn, I stay up-to-date with the latest trends in web development and enjoy tackling challenging problems.
+
+🌟 Open-source enthusiast, I believe in the power of collaboration and community-driven development. You can often find me contributing to projects or exploring interesting repositories.
+
+📚 When I'm not coding, you'll probably find me with a book in hand, exploring nature, or experimenting with new recipes in the kitchen.
+
+📫 Let's connect! Feel free to reach out for collaboration, coding discussions, or just to say hi.
+
+Happy coding! 😊
+
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abhiiofficial"/></p>

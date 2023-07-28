@@ -21,7 +21,7 @@ Happy coding! 😊
 - 🌱 I’m currently learning **Django, Flutter**
 - 💬 Ask me about **React,Node js,Burpsuite**
 - 📫 How to reach me **abhisheksanthoshofficial19@gmail.com**
-- 📄 Know about my experiences [Get Abhishek_resume](https://drive.google.com/file/d/1xDVKbNpoQXbnfK7ZruvDCt6wmWWhPSho/view?usp=sharing)
+- 📄 Know about my experiences [Get My Resume](https://drive.google.com/file/d/1xDVKbNpoQXbnfK7ZruvDCt6wmWWhPSho/view?usp=sharing)
 - ⚡ Fun fact **I don't like Chemistry, physics, etc...**
 
 <br/>

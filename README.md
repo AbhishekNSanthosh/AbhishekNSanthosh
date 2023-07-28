@@ -39,7 +39,9 @@ Happy coding! 😊
 - 📚[CourseTube: Youtube Learning made easier !!!](https://course-tube.vercel.app/)
 - 🏡[Home Care Appliances](https://home-care-appliances.vercel.app/)
 - ✅[LoveTodo: A todo app.](https://todo-ai6z.vercel.app/)
-- ⚡ Fun fact **I'm a backend developer , working on frontend😆🤣....**
+- ⏳Loading more...
+  
+⚡ Fun fact **I'm a backend developer , working on frontend😆🤣....**
 
 <br/>
 <h2 align="left">🌏 Connect with me:</h2>

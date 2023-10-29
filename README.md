@@ -15,7 +15,7 @@
 Happy coding! 😊
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=abhiiofficial"/></p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AbhishekNSanthosh"/></p>
 
 - 🔭 I’m currently working on ***Full Stack Development***
 - 🌱 I’m currently learning **Django, Flutter**
@@ -56,4 +56,4 @@ Happy coding! 😊
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiiofficial&show_icons=true&locale=en" alt="abhishek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiofficial&" alt="abhishek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNSanthosh&" alt="abhishek" /></p>

@@ -54,6 +54,6 @@ Happy coding! 😊
 <br/><br/>
 <h2 align="left">🚀 My Github Stats:</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&locale=en" alt="abhishek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&locale=en" alt="AbhishekNSanthosh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNSanthosh&" alt="abhishek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNSanthosh&" alt="AbhishekNSanthosh" /></p>

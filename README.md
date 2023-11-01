@@ -2,7 +2,7 @@
   <h2 align="center">👋 Hello, I'm Abhishek Santhosh</h2>
 
 <h4 align="center">
-  🚀 Full Stack Developer | MERN Stack Enthusiast | Student at Carmel College of Engineering and Technology
+  🚀 Full Stack Developer | Cyber Securtiy Analyst | Student at Carmel College of Engineering and Technology
 </h4>
 
 - 👨‍💻 Aspiring software engineer with a passion for crafting innovative and efficient solutions. I specialize in the MERN (MongoDB, Express.js, React.js,

@@ -35,8 +35,6 @@ Happy coding! 😊
 - ✅[LoveTodo: A todo app.](https://todo-ai6z.vercel.app/)
 - ⏳Loading more...
   
-⚡ Fun fact **I'm a backend developer , working on frontend😆🤣....**
-
 <br/>
 <h2 align="left">🌏 Connect with me:</h2>
 <br/>

@@ -25,7 +25,7 @@ Happy coding! 😊
 - ⚡ Fun fact **I don't like Chemistry, physics, etc...**
 
 <br/>
-<h2 align="left">Projects: </h2>
+<h2 align="left">Projects:</h2>
 
 - 🔥[Sparkz College techfest](https://sparksccet-dev.vercel.app/)
 - 📜[Carmel polytechnic grievence](https://dev-polytechnic-griev.vercel.app/#/)

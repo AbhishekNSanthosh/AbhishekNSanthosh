@@ -5,8 +5,7 @@
   🚀 Full Stack Developer | Cyber Securtiy Analyst | Student at Carmel College of Engineering and Technology
 </h4>
 
-- 👨‍💻 Aspiring software engineer with a passion for crafting innovative and efficient solutions. I specialize in the MERN (MongoDB, Express.js, React.js,
-  Node.js) stack and love building web applications that deliver seamless user experiences.
+- 👨‍💻 Aspiring software engineer with a passion for crafting innovative and efficient solutions. I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack and love building web applications that deliver seamless user experiences.
 - 🎓 Currently pursuing my education at Carmel College of Engineering and Technology, where I'm honing my technical skills and exploring new technologies.
 - 💡 Constantly curious and eager to learn, I stay up-to-date with the latest trends in web development and enjoy tackling challenging problems.
 - 📚 When I'm not coding, you'll probably find me with a phone in hand, exploring instagram, or experimenting with new topics in youtube.

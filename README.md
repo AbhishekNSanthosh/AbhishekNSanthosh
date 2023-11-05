@@ -48,7 +48,7 @@ Happy coding! 😊
 <h2 align="left">👨‍💻 My Skills:</h2>
 <br/>
 <p align="left"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Typing%20(100WPM)-blue?style=for-the-badge&logo=Speedtest&color=404040"/>
+<img src="https://img.shields.io/badge/Typing%20(60WPM)-blue?style=for-the-badge&logo=Speedtest&color=404040"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>

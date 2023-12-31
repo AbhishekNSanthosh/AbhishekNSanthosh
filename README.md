@@ -17,7 +17,7 @@ Happy coding! 😊
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AbhishekNSanthosh"/></p>
 
 - 🔭 I’m currently working on ***Full Stack Development***
-- 🌱 I’m currently learning **Django, Flutter**
+- 🌱 I’m currently learning **REST APIs**
 - 💬 Ask me about **React,Node js,Burpsuite**
 - 📫 How to reach me **abhisheksanthoshofficial19@gmail.com**
 - 📄 Know about my experiences [Get My Resume](https://drive.google.com/file/d/1xDVKbNpoQXbnfK7ZruvDCt6wmWWhPSho/view?usp=sharing)

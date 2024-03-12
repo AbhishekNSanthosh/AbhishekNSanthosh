@@ -21,7 +21,7 @@ Happy coding! 😊
 - 💬 Ask me about **NEXT js, React, Node js, Burpsuite**
 - 📫 How to reach me **abhisheksanthoshofficial19@gmail.com**
 - 📄 Know about my experiences [Get My Resume](https://drive.google.com/file/d/1xDVKbNpoQXbnfK7ZruvDCt6wmWWhPSho/view?usp=sharing)
-- ⚡ Fun fact **I don't like Chemistry, physics, etc...**
+- ⚡ Fun fact **I don't like getting free time...**
 
 <br/>
 <h2 align="left">Projects:</h2>
@@ -76,4 +76,3 @@ Happy coding! 😊
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&locale=en" alt="AbhishekNSanthosh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNSanthosh&" alt="AbhishekNSanthosh" /></p>
-<img src="https://mulearn.org/embed/rank/abhisheksanthosh@mulearn " height="380px"></img>

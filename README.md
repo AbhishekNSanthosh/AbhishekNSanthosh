@@ -26,12 +26,18 @@ Happy coding! 😊
 <br/>
 <h2 align="left">Projects:</h2>
 
+- 🏢[National Conference CCET](https://ncipetc24.carmelcet.in/)
+- 🔺[TEDxCCET Promo](https://tedxccet.carmelcet.in/)
+- ⏳[Colloquium'24 IEEE](https://colloquium24.vercel.app/)
+- 🎓[IEEE SB CCET](https://dev-ieee-sb-ccet.vercel.app/)
+- 📜[Carmel polytechnic grievence new](https://polytechnic.vercel.app/)
 - 🔥[Sparkz College techfest](https://sparksccet-dev.vercel.app/)
 - 📜[Carmel polytechnic grievence](https://dev-polytechnic-griev.vercel.app/#/)
 - 😵‍💫[Mindmate: Mind tracking application](https://mindmate-delta.vercel.app/)
 - 📚[CourseTube: Youtube Learning made easier !!!](https://course-tube.vercel.app/)
 - 🏡[Home Care Appliances](https://home-care-appliances.vercel.app/)
-- ✅[LoveTodo: A todo app.](https://todo-ai6z.vercel.app/)
+- ✅[LoveTodo: A todo app](https://todo-ai6z.vercel.app/)
+- 🔥[90s Flames Calculator](https://flamesapp.vercel.app/)
 - ⏳Loading more...
   
 <br/>

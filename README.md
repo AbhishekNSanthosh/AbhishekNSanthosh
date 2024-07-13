@@ -1,4 +1,3 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
   <h2 align="center">👋 Hello, I'm Abhishek Santhosh</h2>
 
 <h4 align="center">

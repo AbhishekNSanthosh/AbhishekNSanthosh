@@ -10,7 +10,7 @@
 - 📚 When I'm not coding, you'll probably find me with a phone in hand, exploring instagram, or experimenting with new topics in youtube.
 - 📫 Let's connect! Feel free to reach out for collaboration, coding discussions, or just to say hi.
 
-Happy coding! 😊
+Happy coding! 😁 
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AbhishekNSanthosh"/></p>

@@ -19,7 +19,7 @@ Happy coding! 😁
 - 🌱 I’m currently learning **REST APIs**
 - 💬 Ask me about **NEXT js, React, Node js, Burpsuite**
 - 📫 How to reach me **abhisheksanthoshofficial19@gmail.com**
-- 📄 Know about my experiences [Get My Resume](https://drive.google.com/file/d/1VR5uqB4WeZLrJMO93ibaPzHHcOor5Yzs/view?usp=sharing)
+- 📄 Know about my experiences [Get My Resume](https://drive.google.com/file/d/1Qc3X3WahF-0-4AS2XmHD7QA4bBCGBsb_/view?usp=sharing)
 - ⚡ Fun fact **I don't like getting free time...**
 
 <br/>

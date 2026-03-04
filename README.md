@@ -1,77 +1,107 @@
- <h2 align="center">👋 Hello, I'm Abhishek Santhosh</h2>
+<!-- HEADER WITH ANIMATED TYPING TEXT -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abhishek!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Cyber+Security+Analyst+%F0%9F%9B%A1%EF%B8%8F;Tech+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+</h1>
 
-<h4 align="center">
-  🚀 Full Stack Developer | Cyber Securtiy Analyst | Student at Carmel College of Engineering and Technology
-</h4>
-
-- 👨‍💻 Aspiring software engineer with a passion for crafting innovative and efficient solutions. I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack and love building web applications that deliver seamless user experiences.
-- 🎓 Currently pursuing my education at Carmel College of Engineering and Technology, where I'm honing my technical skills and exploring new technologies.
-- 💡 Constantly curious and eager to learn,I stay up-to-date with the latest trends in web development and enjoy tackling challenging problems.
-- 📚 When I'm not coding, you'll probably find me with a phone in hand, exploring instagram, or experimenting with new topics in youtube.
-- 📫 Let's connect! Feel free to reach out for collaboration, coding discussions, or just to say hi.
-
-Happy coding! 😁 
+<!-- SUB-HEADER AND GIF -->
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F3ZmU4Z24xNzlkbDlnYmU0YWUzbGtzbjkxdHhxNWtpeG42Mm5rdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnkNC/giphy.gif" width="200" alt="Coding GIF">
+</div>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AbhishekNSanthosh"/></p>
-
-- 🔭 I’m currently working on ***Full Stack Development***
-- 🌱 I’m currently learning **REST APIs**
-- 💬 Ask me about **NEXT js, React, Node js, Burpsuite**
-- 📫 How to reach me **abhisheksanthoshofficial19@gmail.com**
-- 📄 Know about my experiences [Get My Resume](https://drive.google.com/file/d/1Qc3X3WahF-0-4AS2XmHD7QA4bBCGBsb_/view?usp=sharing)
-- ⚡ Fun fact **I don't like getting free time...**
-
-<br/>
-<h2 align="left">Projects:</h2>
-
-- 🏢[National Conference CCET](https://ncipetc24.carmelcet.in/)
-- 🔺[TEDxCCET Promo](https://tedxccet.carmelcet.in/)
-- ⏳[Colloquium'24 IEEE](https://colloquium24.vercel.app/)
-- 🎓[IEEE SB CCET](https://dev-ieee-sb-ccet.vercel.app/)
-- 📜[Carmel polytechnic grievence new](https://polytechnic.vercel.app/)
-- 🔥[Sparkz College techfest](https://sparksccet-dev.vercel.app/)
-- 📜[Carmel polytechnic grievence](https://dev-polytechnic-griev.vercel.app/#/)
-- 😵‍💫[Mindmate: Mind tracking application](https://mindmate-delta.vercel.app/)
-- 📚[CourseTube: Youtube Learning made easier !!!](https://course-tube.vercel.app/)
-- 🏡[Home Care Appliances](https://home-care-appliances.vercel.app/)
-- ✅[LoveTodo: A todo app](https://todo-ai6z.vercel.app/)
-- 🔥[90s Flames Calculator](https://flamesapp.vercel.app/)
-- ⏳Loading more...
-  
-<br/>
-<h2 align="left">🌏 Connect with me:</h2>
-<br/>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-santhosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-santhosh" height="30" width="40" /></a>
-<a href="https://fb.com/abhishek s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek s" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishek_.abhii._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_.abhii._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@infinity8658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@infinity8658" height="30" width="40" /></a>
+  <b>🚀 Aspiring software engineer with a passion for crafting innovative and efficient solutions.</b><br/>
+  <i>Student at Carmel College of Engineering and Technology</i>
 </p>
-<br/><br/>
 
-<h2 align="left">👨‍💻 My Skills:</h2>
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://linkedin.com/in/abhishek-santhosh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AbhishekNSanthosh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/abhishek_.abhii._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/c/@infinity8658" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://fb.com/abhishek s" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbhishekNSanthosh" alt="Visitor Badge" />
+</div>
+
 <br/>
-<p align="left"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Typing%20(60WPM)-blue?style=for-the-badge&logo=Speedtest&color=404040"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react"/> 
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>  </p>
-<br/><br/>
-<h2 align="left">🚀 My Github Stats:</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&locale=en" alt="AbhishekNSanthosh" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNSanthosh&" alt="AbhishekNSanthosh" /></p>
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>💻 Specialize in the <b>MERN</b> (MongoDB, Express, React, Node) stack and love building seamless web apps.</li>
+        <li>🎓 Honing my technical skills and exploring new tech at <b>CCET</b>.</li>
+        <li>🔐 Currently learning and delving into <b>Cyber Security</b> and <b>Burpsuite</b>.</li>
+        <li>📚 Constantly curious, tackling challenging problems, and staying up-to-date with top web dev trends.</li>
+        <li>📄 Know more about my experiences: <b><a href="https://drive.google.com/file/d/1Qc3X3WahF-0-4AS2XmHD7QA4bBCGBsb_/view?usp=sharing">View My Resume</a></b></li>
+        <li>📫 Reach me via email: <b><a href="mailto:abhisheksanthoshofficial19@gmail.com">abhisheksanthoshofficial19@gmail.com</a></b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNSanthosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,mui,bootstrap,jquery,css&perline=11" alt="Skills Row 1" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,git,github,vscode,python,java,c,figma,netlify,heroku,md&perline=11" alt="Skills Row 2" />
+</p>
+
+### 🚀 Featured Projects
+
+> Here are some of the web applications and technical projects I've built.
+
+| Project | Description / Link |
+| :--- | :--- |
+| 🏢 **[National Conference CCET](https://ncipetc24.carmelcet.in/)** | Official Web Portal for National Conference |
+| 🔺 **[TEDxCCET Promo](https://tedxccet.carmelcet.in/)** | Promotional site for TEDxCCET event |
+| ⏳ **[Colloquium'24 IEEE](https://colloquium24.vercel.app/)** | Website for the IEEE tech symposium |
+| 🎓 **[IEEE SB CCET](https://dev-ieee-sb-ccet.vercel.app/)** | Official web application for IEEE Student Branch |
+| 😵‍💫 **[Mindmate](https://mindmate-delta.vercel.app/)** | Interactive mind tracking and wellness application |
+| 📚 **[CourseTube](https://course-tube.vercel.app/)** | YouTube-based focused learning platform |
+
+<details>
+<summary><b>✨ View More Projects (Click to Expand)</b></summary>
+<br/>
+
+- 📜 [Carmel Polytechnic Grievance (New)](https://polytechnic.vercel.app/)
+- 🔥 [Sparkz College Techfest](https://sparksccet-dev.vercel.app/)
+- 📜 [Carmel Polytechnic Grievance (Legacy)](https://dev-polytechnic-griev.vercel.app/#/)
+- 🏡 [Home Care Appliances](https://home-care-appliances.vercel.app/)
+- ✅ [LoveTodo: A todo app](https://todo-ai6z.vercel.app/)
+- 🔥 [90s Flames Calculator](https://flamesapp.vercel.app/)
+
+</details>
+
+<br/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNSanthosh&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<p align="center">
+  <i>"I don't like getting free time... Always building, always learning."</i>
+</p>

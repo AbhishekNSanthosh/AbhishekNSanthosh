@@ -1,11 +1,11 @@
 <!-- HEADER WITH ANIMATED TYPING TEXT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abhishek!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Cyber+Security+Analyst+%F0%9F%9B%A1%EF%B8%8F;Tech+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Abhishek!;Full+Stack+Developer;Cyber+Security+Analyst;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<!-- SUB-HEADER AND GIF -->
+<!-- SUB-HEADER AND RELIABLE CODING GIF -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F3ZmU4Z24xNzlkbDlnYmU0YWUzbGtzbjkxdHhxNWtpeG42Mm5rdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnkNC/giphy.gif" width="200" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ae-4b86-b8f6-44caec64e16d.gif" width="200" alt="Coding GIF">
 </div>
 
 <p align="center">
@@ -44,7 +44,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>💻 Specialize in the <b>MERN</b> (MongoDB, Express, React, Node) stack and love building seamless web apps.</li>
+        <li>💻 Specialize in the <b>MERN</b> stack and love building seamless web apps.</li>
         <li>🎓 Honing my technical skills and exploring new tech at <b>CCET</b>.</li>
         <li>🔐 Currently learning and delving into <b>Cyber Security</b> and <b>Burpsuite</b>.</li>
         <li>📚 Constantly curious, tackling challenging problems, and staying up-to-date with top web dev trends.</li>
@@ -53,7 +53,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNSanthosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNSanthosh&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNSanthosh&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 

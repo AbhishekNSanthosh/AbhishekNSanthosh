@@ -1,6 +1,6 @@
 <!-- HEADER WITH ANIMATED TYPING TEXT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Abhishek!;Full+Stack+Developer;Cyber+Security+Analyst;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Abhishek!;Product-Minded+Full-Stack+Developer;Tech+Entrepreneur;Building+Scalable+Web+Platforms;React+Native+%26+Next.js" alt="Typing SVG" />
 </h1>
 
 <!-- SUB-HEADER AND RELIABLE CODING GIF -->
@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <b>🚀 Aspiring software engineer with a passion for crafting innovative and efficient solutions.</b><br/>
-  <i>Student at Carmel College of Engineering and Technology</i>
+  <b>🚀 Product-minded Full-Stack Developer & Entrepreneur who enjoys building and launching scalable web platforms.</b><br/>
+  <i>Software Developer @ Innodots Innovations | B.Tech CSE @ Carmel College of Engineering & Technology</i>
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -21,14 +21,11 @@
   <a href="https://github.com/AbhishekNSanthosh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:reach.abhisheksanthosh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://instagram.com/abhishek_.abhii._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/@infinity8658" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://fb.com/abhishek s" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
@@ -44,12 +41,11 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>💻 Specialize in the <b>MERN</b> stack and love building seamless web apps.</li>
-        <li>🎓 Honing my technical skills and exploring new tech at <b>CCET</b>.</li>
-        <li>🔐 Currently learning and delving into <b>Cyber Security</b> and <b>Burpsuite</b>.</li>
-        <li>📚 Constantly curious, tackling challenging problems, and staying up-to-date with top web dev trends.</li>
-        <li>📄 Know more about my experiences: <b><a href="https://drive.google.com/file/d/1Qc3X3WahF-0-4AS2XmHD7QA4bBCGBsb_/view?usp=sharing">View My Resume</a></b></li>
-        <li>📫 Reach me via email: <b><a href="mailto:abhisheksanthoshofficial19@gmail.com">abhisheksanthoshofficial19@gmail.com</a></b></li>
+        <li>💻 Experienced in building end-to-end products using <b>Next.js, Node.js, Firebase, and MongoDB</b>.</li>
+        <li>⚙️ Strong focus on performance, security, and designing reliable APIs & real-time features.</li>
+        <li>🏢 Currently working as a <b>Software Developer</b> at <b>Innodots Innovations Pvt. Ltd.</b> building React Native apps and scalable Next.js applications.</li>
+        <li>🎓 Pursuing my B.Tech in CSE at <b>Carmel College of Engineering and Technology</b>.</li>
+        <li>📫 Reach me via email: <b><a href="mailto:reach.abhisheksanthosh@gmail.com">reach.abhisheksanthosh@gmail.com</a></b></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -58,36 +54,42 @@
   </tr>
 </table>
 
+### 💼 Experience
+
+- **Software Developer** @ *Innodots Innovations Pvt. Ltd., Kerala* (Jul 2025 – Present)
+  - Developing multi-platform mobile apps with React Native and scalable full-stack web applications with Next.js with optimized data handling.
+- **Full Stack Developer** @ *IEEE Computer Society, Kerala Section* (Jan 2024 – Jan 2025)
+  - Developed and optimized websites for major statewide events, improving overall performance by 40%.
+- **Frontend Developer** @ *Mulearn, GTech* (May 2023 – Dec 2023)
+  - Led frontend development using React, Vite, and TypeScript to build responsive platforms serving 49K+ members across Kerala.
+
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,mui,bootstrap,jquery,css&perline=11" alt="Skills Row 1" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,git,github,vscode,python,java,c,figma,netlify,heroku,md&perline=11" alt="Skills Row 2" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,c,java,md&perline=12" alt="Skills Row 1" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,postman,vercel,nginx,aws,figma,vscode&perline=12" alt="Skills Row 2" />
 </p>
 
 ### 🚀 Featured Projects
 
-> Here are some of the web applications and technical projects I've built.
+> Highlighting scalable web applications and major technical projects I've built.
 
-| Project | Description / Link |
+| Project | Description / Tech Stack |
 | :--- | :--- |
-| 🏢 **[National Conference CCET](https://ncipetc24.carmelcet.in/)** | Official Web Portal for National Conference |
-| 🔺 **[TEDxCCET Promo](https://tedxccet.carmelcet.in/)** | Promotional site for TEDxCCET event |
-| ⏳ **[Colloquium'24 IEEE](https://colloquium24.vercel.app/)** | Website for the IEEE tech symposium |
-| 🎓 **[IEEE SB CCET](https://dev-ieee-sb-ccet.vercel.app/)** | Official web application for IEEE Student Branch |
-| 😵‍💫 **[Mindmate](https://mindmate-delta.vercel.app/)** | Interactive mind tracking and wellness application |
-| 📚 **[CourseTube](https://course-tube.vercel.app/)** | YouTube-based focused learning platform |
+| 🎟️ **[GraburPass](https://www.graburpass.com)** | Multi-organizer ticketing platform with Cashfree payments, referral coupons, & attendee management. Currently processing 200+ orders. *(Next.js, TS, Tailwind, Firebase, MongoDB)* |
+| 🔺 **[TEDxCCET](https://www.tedxccet.in)** | Scalable full-stack application with a feature-rich admin dashboard, mailing tools, and Razorpay integration. *(Next.js, TS, Tailwind, Nginx, MongoDB, AWS)* |
+| 🎓 **[Mulearn Platform](https://app.mulearn.org)** | Collaborative frontend platform serving 49K+ active users. Improved load times by 35% and integrated Govt. APIs. *(React, TS, Chakra UI)* |
 
 <details>
 <summary><b>✨ View More Projects (Click to Expand)</b></summary>
 <br/>
 
-- 📜 [Carmel Polytechnic Grievance (New)](https://polytechnic.vercel.app/)
-- 🔥 [Sparkz College Techfest](https://sparksccet-dev.vercel.app/)
-- 📜 [Carmel Polytechnic Grievance (Legacy)](https://dev-polytechnic-griev.vercel.app/#/)
-- 🏡 [Home Care Appliances](https://home-care-appliances.vercel.app/)
-- ✅ [LoveTodo: A todo app](https://todo-ai6z.vercel.app/)
-- 🔥 [90s Flames Calculator](https://flamesapp.vercel.app/)
+- 🏢 [National Conference CCET](https://ncipetc24.carmelcet.in/)
+- ⏳ [Colloquium'24 IEEE](https://colloquium24.vercel.app/)
+- 🎓 [IEEE SB CCET](https://dev-ieee-sb-ccet.vercel.app/)
+- 😵💫 [Mindmate](https://mindmate-delta.vercel.app/)
+- 📚 [CourseTube](https://course-tube.vercel.app/)
+- 📜 [Carmel Polytechnic Grievance](https://polytechnic.vercel.app/)
 
 </details>
 

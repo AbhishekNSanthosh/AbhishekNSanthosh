@@ -37,18 +37,18 @@
 
 ### 👨‍💻 About Me
 
-<table align="center" border="0" style="border: none;">
+<table align="center" width="100%" border="0" style="border: none;">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       <ul>
         <li>💻 Experienced in building end-to-end products using <b>Next.js, Node.js, Firebase, and MongoDB</b>.</li>
         <li>⚙️ Strong focus on performance, security, and designing reliable APIs & real-time features.</li>
-        <li>🏢 Currently working as a <b>Software Developer</b> at <b>Innodots Innovations Pvt. Ltd.</b> building React Native apps and scalable Next.js applications.</li>
+        <li>🏢 Currently working as a <b>Software Developer</b> at <b>Innodots Innovations Pvt. Ltd.</b></li>
         <li>🎓 Pursuing my B.Tech in CSE at <b>Carmel College of Engineering and Technology</b>.</li>
         <li>📫 Reach me via email: <b><a href="mailto:reach.abhisheksanthosh@gmail.com">reach.abhisheksanthosh@gmail.com</a></b></li>
       </ul>
     </td>
-    <td width="40%" align="center">
+    <td width="40%" align="center" valign="top">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhishekNSanthosh&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="100%" />
     </td>
   </tr>
@@ -56,12 +56,44 @@
 
 ### 💼 Experience
 
-- **Software Developer** @ *Innodots Innovations Pvt. Ltd., Kerala* (Jul 2025 – Present)
-  - Developing multi-platform mobile apps with React Native and scalable full-stack web applications with Next.js with optimized data handling.
-- **Full Stack Developer** @ *IEEE Computer Society, Kerala Section* (Jan 2024 – Jan 2025)
-  - Developed and optimized websites for major statewide events, improving overall performance by 40%.
-- **Frontend Developer** @ *Mulearn, GTech* (May 2023 – Dec 2023)
-  - Led frontend development using React, Vite, and TypeScript to build responsive platforms serving 49K+ members across Kerala.
+<table align="center" width="100%" border="0" style="border: none;">
+  <tr>
+    <td width="70%" valign="top">🏢 <b>Software Developer</b> @ <i>Innodots Innovations Pvt. Ltd., Kerala</i></td>
+    <td width="30%" align="right" valign="top"><code>Jul 2025 – Present</code></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <ul>
+        <li>Developing multi-platform mobile apps with React Native.</li>
+        <li>Building scalable full-stack web applications with Next.js and optimized data handling.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr color="#30363d" size="1"></td></tr>
+  <tr>
+    <td width="70%" valign="top">⚡ <b>Full Stack Developer</b> @ <i>IEEE Computer Society, Kerala Section</i></td>
+    <td width="30%" align="right" valign="top"><code>Jan 2024 – Jan 2025</code></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <ul>
+        <li>Developed and optimized websites for major statewide events, improving overall performance by 40%.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr color="#30363d" size="1"></td></tr>
+  <tr>
+    <td width="70%" valign="top">🎨 <b>Frontend Developer</b> @ <i>Mulearn, GTech</i></td>
+    <td width="30%" align="right" valign="top"><code>May 2023 – Dec 2023</code></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <ul>
+        <li>Led frontend using React, Vite, and TypeScript to build responsive platforms serving 49K+ members across Kerala.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -72,13 +104,31 @@
 
 ### 🚀 Featured Projects
 
-> Highlighting scalable web applications and major technical projects I've built.
-
-| Project | Description / Tech Stack |
-| :--- | :--- |
-| 🎟️ **[GraburPass](https://www.graburpass.com)** | Multi-organizer ticketing platform with Cashfree payments, referral coupons, & attendee management. Currently processing 200+ orders. *(Next.js, TS, Tailwind, Firebase, MongoDB)* |
-| 🔺 **[TEDxCCET](https://www.tedxccet.in)** | Scalable full-stack application with a feature-rich admin dashboard, mailing tools, and Razorpay integration. *(Next.js, TS, Tailwind, Nginx, MongoDB, AWS)* |
-| 🎓 **[Mulearn Platform](https://app.mulearn.org)** | Collaborative frontend platform serving 49K+ active users. Improved load times by 35% and integrated Govt. APIs. *(React, TS, Chakra UI)* |
+<table align="center" width="100%" border="0" style="border: none;">
+  <tr>
+    <td width="30%" valign="top">🎟️ <b><a href="https://www.graburpass.com">GraburPass</a></b></td>
+    <td width="70%" valign="top">
+      Multi-organizer ticketing platform with Cashfree payments, referral coupons, & attendee management. Currently processing 200+ orders.<br/>
+      <code style="color: #00F0FF; background: transparent;">Next.js, TS, Tailwind, Firebase, MongoDB</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="30%" valign="top">🔺 <b><a href="https://www.tedxccet.in">TEDxCCET</a></b></td>
+    <td width="70%" valign="top">
+      Scalable full-stack application with a feature-rich admin dashboard, mailing tools, and Razorpay integration.<br/>
+      <code style="color: #00F0FF; background: transparent;">Next.js, TS, Tailwind, Nginx, MongoDB, AWS</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="30%" valign="top">🎓 <b><a href="https://app.mulearn.org">Mulearn Platform</a></b></td>
+    <td width="70%" valign="top">
+      Collaborative frontend platform serving 49K+ active users. Improved load times by 35% and integrated Govt. APIs.<br/>
+      <code style="color: #00F0FF; background: transparent;">React, TS, Chakra UI</code>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>✨ View More Projects (Click to Expand)</b></summary>

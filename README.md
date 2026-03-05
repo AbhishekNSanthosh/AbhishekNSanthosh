@@ -53,7 +53,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNSanthosh&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhishekNSanthosh&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhishekNSanthosh&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNSanthosh&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 
